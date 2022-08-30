@@ -8,7 +8,7 @@ When creating you charcter your hierarchy should look like this:
 
 ![image](https://user-images.githubusercontent.com/107372313/187555290-92aa55dd-9587-4d7f-b280-c1fbab788c24.png)
 
-- Main.char should have **Movement3P**
+- Main.char should have **Movement3P**, needs rigidbody
 - WallBlock is for stopping camera from clipping, it should be a sphere with the camera inside of it
 - Main.cam should have **Camera3P**
 - Aim should be an empty object that is where you want your camera to face
@@ -18,3 +18,9 @@ When creating you charcter your hierarchy should look like this:
 
 ![image](https://user-images.githubusercontent.com/107372313/187555789-dd68f8c0-5020-4fb1-b9e0-f8b9f5359286.png)
 > Image of Camera3P
+
+# TODO
+
+- Create crouch mechanic
+- Help with charcter rotating when uneeded
+- Make camera script adjust for walls
