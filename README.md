@@ -1,8 +1,6 @@
-# Unity-3rd-Person-Script
+# Overview
 
-A script for a 3d, 3rd person scene
-
-this includes movement and look script
+This package includes two
 
 # Information 
 
