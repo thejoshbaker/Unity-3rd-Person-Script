@@ -1,5 +1,9 @@
 # Unity-3rd-Person-Script
 
-A script for a 3d, 3rd person, movement and look script
+A script for a 3d, 3rd person scene
 
-![Image of Heireacty](D:/Files/Github/Unity 3rd person script/Hierarchy.png)
+this includes movement and look script
+
+# Information 
+
+You can find all photos on where to place items in the images directory
