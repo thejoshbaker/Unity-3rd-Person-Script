@@ -1,8 +1,8 @@
-# Overview
+## Overview
 
 This package includes two scripts, these scripts are meant to be drag and drop. No code required.
 
-# Information 
+## Information 
 
 When creating you charcter your hierarchy should look like this:
 
@@ -19,7 +19,7 @@ When creating you charcter your hierarchy should look like this:
 ![image](https://user-images.githubusercontent.com/107372313/187555789-dd68f8c0-5020-4fb1-b9e0-f8b9f5359286.png)
 > Image of Camera3P
 
-# TODO
+## TODO
 
 - Create crouch mechanic
 - Help with charcter rotating when uneeded
