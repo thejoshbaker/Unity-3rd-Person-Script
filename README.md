@@ -9,7 +9,7 @@ When creating you charcter your hierarchy should look like this:
 ![image](https://user-images.githubusercontent.com/107372313/187555290-92aa55dd-9587-4d7f-b280-c1fbab788c24.png)
 
 - Main.char should have **Movement3P**, needs rigidbody
-- WallBlock is for stopping camera from clipping, it should be a sphere with the camera inside of it
+- WallBlock is for stopping camera from clipping, it should be a sphere with the camera inside of it, it is optional however, you can have the cam go through objects
 - Main.cam should have **Camera3P**
 - Aim should be an empty object that is where you want your camera to face
 
